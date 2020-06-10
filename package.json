@@ -1,0 +1,25 @@
+{
+  "name": "week-7-template",
+  "version": "1.0.0",
+  "description": "this is the template for week 7's hw",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glitchgirl/Week-7-template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glitchgirl/Week-7-template/issues"
+  },
+  "homepage": "https://github.com/glitchgirl/Week-7-template#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "node": "^14.4.0"
+  }
+}
